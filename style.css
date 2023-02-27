@@ -303,6 +303,8 @@
 
   .contact--flex--content form {
     font-size: 1rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
     color: #031219;
     margin-bottom: 4rem;
     margin-left: 4rem;
