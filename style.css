@@ -129,8 +129,9 @@
     text-decoration: none;
   }
 
-  .categories--list h3{
+  .categories--list a{
     list-style-type: none;
+    color: #031219;
     text-decoration: none;
   }
   
